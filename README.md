@@ -57,4 +57,4 @@ Edit the readme.md file and push the files to the GitHub to display the contents
 
 
 ## Result:
-Write your result
+Image mapping website created and executed successfully 
