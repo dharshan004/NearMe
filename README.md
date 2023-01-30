@@ -49,7 +49,7 @@ Edit the readme.md file and push the files to the GitHub to display the contents
 
 ![OUT](./map.png)
 
-![OUT](./out1.png)
+![OUT](./out-1.png)
 
 ![OUT](./out3.png)
 
